@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sulymaani
-- 👀 I’m interested in programming and coding a really cool amazing projects
-- 🌱 I’m currently learning fullstack-development path on codecademy
+- 👀 I’m interested in learning a new programming languages and code a really cool and amazing projects with them
+- 🌱 I’m currently learning fullstack-development on codecademy
 - 📫 Reach me on twitter 
 
 <!---
